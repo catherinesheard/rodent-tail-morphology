@@ -1,0 +1,11 @@
+"Table S13: Macroevolutionary correlates of interspecific variation in fatty tail deposits. Shown are the results of a Bayesian phylogenetic logistic regression, computed in MCMCglmm. Note that the suborders Anomaluromorpha, Castorimorpha, Hystricomorpha, and Scuriomorpha all contain <  5 species with fatty tail deposits and were thus omitted from analysis.",,,,,,,,,,
+,,,,,,,,,,
+All,n = 1070,,,,,Myomorpha,n = 641,,,
+Fixed effects,?,lower 95% CI,upper 95% CI,pMCMC,,Fixed effects,?,lower 95% CI,upper 95% CI,pMCMC
+Hibernation,2.348,-1.757,6.536,0.278,,Hibernation,-0.522,-6.895,4.838,0.856
+Temperature,0.184,-1.374,1.986,0.804,,Temperature,0.284,-2.023,2.38,0.818
+Precipitation variation,-0.652,-1.887,0.481,0.282,,Precipitation variation,-0.431,-2.073,1.183,0.584
+Random effects,,,,,,Random effects,,,,
+Phylogeny,139.4,28,292.3,,,Phylogeny,213.5,42.5,469.3,
+Residuals,,,,,,Residuals,,,,
+Residual,1,1,1,,,Residual,1,1,1,

@@ -1,0 +1,22 @@
+"Table S2: Macroevolutionary correlates of interspecific variation in tail length. Shown are the results of a Bayesian phylogenetic linear regression, computed in MCMCglmm. Statistically significant coefficients are highlighted in grey. Note that there are no arboreal Castorimorphs or fossorial Anomaluromorphs.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+With litter size as a fixed effect.,,All,n = 1207,,,,,Myomorpha,n = 777,,,,,Hystricomorpha,n = 126,,,,,Sciuromorpha,n = 224,,,,,Castorimorpha,n = 73,,,,,Anomaluromorpha,n = 7,,,
+,,Fixed effects,?,lower 95% CI,upper 95% CI,pMCMC,,Fixed effects,?,lower 95% CI,upper 95% CI,pMCMC,,Fixed effects,?,lower 95% CI,upper 95% CI,pMCMC,,Fixed effects,?,lower 95% CI,upper 95% CI,pMCMC,,Fixed effects,?,lower 95% CI,upper 95% CI,pMCMC,,Fixed effects,?,lower 95% CI,upper 95% CI,pMCMC
+,,Litter size,-0.032,-0.066,0.003,0.064,,Litter size,-0.047,-0.089,-0.003,0.040,,Litter size,0.007,-0.104,0.129,0.936,,Litter size,0.012,-0.094,0.132,0.852,,Litter size,0.028,-0.061,0.133,0.570,,Litter size,-0.2493,-2.233,1.770,0.768
+,,Temperature,0.065,0.023,0.111,0.002,,Temperature,0.062,0.003,0.117,0.036,,Temperature,0.113,-0.005,0.243,0.070,,Temperature,0.089,-0.013,0.204,0.098,,Temperature,0.037,-0.077,0.158,0.534,,Temperature,0.288,-3.342,4.055,0.778
+,,Arboreality,0.335,0.243,0.430,< 0.001,,Arboreality,0.383,0.280,0.506,< 0.001,,Arboreality,0.419,-0.010,0.874,0.058,,Arboreality,0.207,-0.050,0.465,0.120,,Fossoriality,-0.103,-0.379,0.188,0.474,,Arboreality,-0.209,-9.512,8.128,0.906
+,,Fossoriality,-0.202,-0.277,-0.104,< 0.001,,Fossoriality,-0.225,-0.316,-0.132,< 0.001,,Fossoriality,-0.373,-0.728,0.002,0.042,,Fossoriality,0.024,-0.262,0.324,0.890,,Random effects,,,,,,Random effects,,,,
+,,Random effects,,,,,,Random effects,,,,,,Random effects,,,,,,Random effects,,,,,,Phylogeny,0.644,0.344,0.983,,,Phylogeny,8.074,0.001,29.090,
+,,Phylogeny,0.868,0.686,1.027,,,Phylogeny,0.773,0.601,0.977,,,Phylogeny,0.932,0.507,1.392,,,Phylogeny,1.219,0.646,1.819,,,Residuals,,,,,,Residuals,,,,
+,,Residuals,,,,,,Residuals,,,,,,Residuals,,,,,,Residuals,,,,,,Residual,0.028,0.001,0.053,,,Residual,3.373,0.000,6.104,
+,,Residual,0.063,0.046,0.08,,,Residual,0.078,0.052,0.101,,,Residual,0.079,0.036,0.127,,,Residual,0.054,0.013,0.107,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Without litter size as a fixed effect.,,All,n = 1951,,,,,Myomorpha,n = 1326,,,,,Hystricomorpha,n = 228,,,,,Sciuromorpha,n = 294,,,,,Castorimorpha,n = 94,,,,,Anomaluromorpha,n = 9,,,
+,,Fixed effects,?,lower 95% CI,upper 95% CI,pMCMC,,Fixed effects,?,lower 95% CI,upper 95% CI,pMCMC,,Fixed effects,?,lower 95% CI,upper 95% CI,pMCMC,,Fixed effects,?,lower 95% CI,upper 95% CI,pMCMC,,Fixed effects,?,lower 95% CI,upper 95% CI,pMCMC,,Fixed effects,?,lower 95% CI,upper 95% CI,pMCMC
+,,Temperature,0.054,0.051,0.087,< 0.001,,Temperature,0.053,0,0.095,0.024,,Temperature,0.017,-0.061,0.087,0.616,,Temperature,0.147,0.054,0.255,0.004,,Temperature,0.010,-0.078,0.095,0.800,,Temperature,0.182,-1.500,1.400,0.664
+,,Arboreality,0.362,0.28,0.439,< 0.001,,Arboreality,0.409,0.313,0.501,< 0.001,,Arboreality,0.463,0.080,0.804,0.010,,Arboreality,0.267,0.019,0.518,0.026,,Fossoriality,-0.136,-0.416,0.159,0.318,,Aboreality,-0.696,-6.762,3.747,0.766
+,,Fossoriality,-0.175,0.236,0.071,< 0.001,,Fossoriality,-0.206,-0.294,-0.116,< 0.001,,Fossoriality,-0.188,-0.454,0.097,0.190,,Fossoriality,0.084,-0.205,0.403,0.606,,Random effects,,,,,,Random effects,,,,
+,,Random effects,,,,,,Random effects,,,,,,Random effects,,,,,,Random effects,,,,,,Phylogeny,0.577,0.320,0.840,,,Phylogeny,2.996,0.001,9.288,
+,,Phylogeny,0.908,0.759,1.085,,,Phylogeny,0.85,0.662,1.036,,,Phylogeny,1.051,0.708,1.431,,,Phylogeny,1.022,0.635,1.438,,,Residuals,,,,,,Residuals,,,,
+,,Residuals,,,,,,Residuals,,,,,,Residuals,,,,,,Residuals,,,,,,Residual,0.034,0.013,0.056,,,Residual,0.5199,0.000,2.354,
+,,Residual,0.0914,0.076,0.107,,,Residual,0.123,0.099,0.144,,,Residual,0.055,0.034,0.082,,,Residual,0.099,0.061,0.144,,,,,,,,,,,,,

@@ -1,0 +1,80 @@
+"Table S4: Macroevolutionary correlates of interspecific variation in white tails. Shown are the results of a Bayesian phylogenetic logistic regression, computed in MCMCglmm. Statistically significant coefficients are highlighted in grey. Note that no Anomaluromorphs have white tails, and there was an insufficient sample size to run these models in the Scuriomorpha. Note also that the Castorimorpha do not contain any arboreal species or any social group sizes beyond ""1"" and ""2"".",,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+"With litter size as a fixed effect, and with social group size (SGS) as a categorical variable.",,All,n = 808,,,,,Myomorpha,n = 434,,,,,Hystricomorpha,n = 105,,,,,Castorimorpha,n = 73,,,
+,,Fixed effects,?,lower 95% CI,upper 95% CI,pMCMC,,Fixed effects,?,lower 95% CI,upper 95% CI,pMCMC,,Fixed effects,?,lower 95% CI,upper 95% CI,pMCMC,,Fixed effects,?,lower 95% CI,upper 95% CI,pMCMC
+,,Litter size,0.611,-0.617,1.908,0.350,,Litter size,0.458,-1.117,2.323,0.608,,Litter size,0.573,-2.050,3.323,0.600,,Litter size,0.731,-2.842,4.338,0.680
+,,Arboreality,-0.189,-3.812,3.479,0.948,,Arboreality,-1.485,-6.211,3.924,0.532,,Arboreality,0.697,-7.067,7.350,0.828,,Aquaticity,-0.461,*8.98068,7.012,0.912
+,,Aquaticity,-4.041,-10.358,1.942,0.188,,Aquaticity,-3.466,-9.955,3.511,0.306,,Aquaticity,-0.545,-8.870,7.846,0.908,,Shade,0.069,-3.642,4.046,0.948
+,,Shade,-1.210,-2.627,0.088,0.066,,Shade,-0.663,-2.749,1.313,0.492,,Shade,-1.248,-4.341,1.907,0.420,,SGS - 2,-0.631,-8.756,7.640,0.870
+,,SGS - 2,0.809,-1.757,3.242,0.508,,SGS - 2,1.106,-3.072,4.897,0.536,,SGS - 2,2.420,-2.599,7.640,0.344,,Nocturnality,0.123,-7.394,8.093,0.970
+,,SGS - 3,0.925,-1.513,3.929,0.490,,SGS - 3,0.562,-3.539,4.359,0.732,,SGS - 3,-1.085,-7.618,4.913,0.722,,Random effects,,,,
+,,SGS - 4,-2.839,-9.477,3.250,0.366,,SGS - 4,-0.702,-9.273,6.477,0.894,,SGS - 4,-2.143,-8.800,6.163,0.554,,Phylogeny,692.6,5.3,2360.0,
+,,SGS - 5,-2.799,-9.278,3.403,0.356,,SGS - 5,-0.891,-8.865,5.825,0.822,,SGS - 5,-1.589,-9.053,6.225,0.698,,Residuals,,,,
+,,Nocturnality,-1.783,-5.032,1.449,0.232,,Nocturnality,0.102,-4.504,4.822,0.982,,Nocturnality,-3.077,-10.491,2.869,0.356,,Residual,1,1,1,
+,,Random effects,,,,,,Random effects,,,,,,Random effects,,,,,,,,,,
+,,Phylogeny,123.7,13.3,329.9,,,Phylogeny,193.0,23.0,494.5,,,Phylogeny,543.8,0.1,1987.0,,,,,,,
+,,Residuals,,,,,,Residuals,,,,,,Residuals,,,,,,,,,,
+,,Residual,1,1,1,,,Residual,1,1,1,,,Residual,1,1,1,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+"With litter size as a fixed effect, and with social group size (SGS) as a continuous variable.",,All,n = 808,,,,,Myomorpha,n = 434,,,,,Hystricomorpha,n = 105,,,,,,,,,
+,,Fixed effects,?,lower 95% CI,upper 95% CI,pMCMC,,Fixed effects,?,lower 95% CI,upper 95% CI,pMCMC,,Fixed effects,?,lower 95% CI,upper 95% CI,pMCMC,,,,,,
+,,Litter size,0.603,-0.575,1.835,0.300,,Litter size,0.507,-1.048,2.415,0.592,,Litter size,0.628,-2.233,3.005,0.552,,,,,,
+,,Arboreality,-0.189,-3.457,3.011,0.946,,Arboreality,-1.322,-6.215,3.500,0.598,,Arboreality,0.805,-6.049,8.651,0.766,,,,,,
+,,Aquaticity,-4.100,-10.460,1.407,0.132,,Aquaticity,-3.406,-9.897,2.627,0.282,,Aquaticity,-0.471,-8.368,7.301,0.918,,,,,,
+,,Shade,-1.235,-2.627,0.151,0.050,,Shade,-0.769,-2.570,1.188,0.412,,Shade,-1.427,-4.658,1.478,0.288,,,,,,
+,,SGS,-0.050,-0.932,0.883,0.862,,SGS,0.134,-1.163,1.733,0.886,,SGS,-0.930,-3.553,1.652,0.394,,,,,,
+,,Nocturnality,-1.578,-4.549,1.473,0.246,,Nocturnality,0.017,-4.241,4.737,0.986,,Nocturnality,-3.349,-9.999,2.600,0.254,,,,,,
+,,Random effects,,,,,,Random effects,,,,,,Random effects,,,,,,,,,,
+,,Phylogeny,100.5,8.5,256.4,,,Phylogeny,180.2,14.6,444.9,,,Phylogeny,447.7,0.2,1763,,,,,,,
+,,Residuals,,,,,,Residuals,,,,,,Residuals,,,,,,,,,,
+,,Residual,1,1,1,,,Residual,1,1,1,,,Residual,1,1,1,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+"With litter size as a fixed effect, and with social group size omitted from the model.",,All,n = 1191,,,,,Myomorpha,n = 770,,,,,Hystricomorpha,n = 116,,,,,Castorimorpha,n = 74,,,
+,,Fixed effects,?,lower 95% CI,upper 95% CI,pMCMC,,Fixed effects,?,lower 95% CI,upper 95% CI,pMCMC,,Fixed effects,?,lower 95% CI,upper 95% CI,pMCMC,,Fixed effects,?,lower 95% CI,upper 95% CI,pMCMC
+,,Litter size,0.497,-0.290,1.340,0.206,,Litter size,0.472,-0.595,1.617,0.376,,Litter size,0.656,-1.259,3.283,0.482,,Litter size,0.736,-2.869,4.532,0.648
+,,Arboreality,-0.888,-3.170,1.635,0.464,,Arboreality,-1.632,-4.688,1.211,0.250,,Arboreality,1.268,-5.388,8.260,0.692,,Aquaticity,-0.547,-8.660,8.529,0.862
+,,Aquaticity,-4.729,-10.488,0.084,0.054,,Aquaticity,-4.367,-10.994,0.454,0.126,,Aquaticity,-0.785,-8.026,7.764,0.868,,Shade,0.016,-3.627,3.703,0.974
+,,Shade,-1.171,-2.203,-0.156,0.020,,Shade,-1.053,-2.561,0.231,0.116,,Shade,-1.219,-4.338,0.926,0.294,,Nocturnality,0.130,-8.187,8.428,0.980
+,,Nocturnality,-0.780,-3.350,1.570,0.506,,Nocturnality,0.911,-2.663,4.345,0.602,,Nocturnality,-3.145,-8.769,2.610,0.234,,Random effects,,,,
+,,Random effects,,,,,,Random effects,,,,,,Random effects,,,,,,Phylogeny,659.0,8.5,2246.0,
+,,Phylogeny,84.8,13.7,189.8,,,Phylogeny,122.2,15.2,276.4,,,Phylogeny,264.4,0.0,1177.0,,,Residuals,,,,
+,,Residuals,,,,,,Residuals,,,,,,Residuals,,,,,,Residual,1,1,1,
+,,Residual,1,1,1,,,Residual,1,1,1,,,Residual,1,1,1,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+"With litter size omitted from the model, and with social group size (SGS) as a categorical variable.",,All,n = 1081,,,,,Myomorpha,n = 568,,,,,Hystricomorpha,n = 182,,,,,Castorimorpha,n = 94,,,
+,,Fixed effects,?,lower 95% CI,upper 95% CI,pMCMC,,Fixed effects,?,lower 95% CI,upper 95% CI,pMCMC,,Fixed effects,?,lower 95% CI,upper 95% CI,pMCMC,,Fixed effects,?,lower 95% CI,upper 95% CI,pMCMC
+,,Arboreality,-1.171,-3.796,1.414,0.376,,Arboreality,-1.980,-6.011,1.882,0.304,,Arboreality,-0.077,-7.375,7.027,0.992,,Aquaticity,-0.544,-8.675,7.189,0.870
+,,Aquaticity,-4.755,-10.288,0.684,0.064,,Aquaticity,-4.250,-10.301,1.768,0.138,,Aquaticity,-0.236,-7.297,8.514,0.968,,Shade,0.170,-2.748,3.679,0.942
+,,Shade,-0.699,-1.525,0.209,0.092,,Shade,-0.756,-2.274,0.740,0.306,,Shade,-0.649,-3.336,1.580,0.550,,SGS - 2,-0.887,-8.710,6.599,0.824
+,,SGS - 2,0.969,-0.883,2.571,0.246,,SGS - 2,1.605,-1.096,4.830,0.262,,SGS - 2,2.290,-1.774,6.751,0.248,,Nocturnality,1.139,-6.224,9.279,0.750
+,,SGS - 3,0.526,-1.499,2.495,0.588,,SGS - 3,0.149,-3.019,3.432,0.878,,SGS - 3,-1.104,-6.780,4.849,0.654,,Random effects,,,,
+,,SGS - 4,-3.215,-0.919,2.407,0.232,,SGS - 4,-1.375,-8.815,5.186,0.716,,SGS - 4,-1.842,-9.410,5.234,0.596,,Phylogeny,998.0,0.6,3758.0,
+,,SGS - 5,-3.089,-9.423,2.309,0.298,,SGS - 5,-1.852,-8.993,4.587,0.616,,SGS - 5,-1.524,-9.583,5.580,0.688,,Residuals,,,,
+,,Nocturnality,0.420,2.614,1.604,0.656,,Nocturnality,0.3774,-3.3429,4.1969,0.824,,Nocturnality,-1.156,-7.801,5.012,0.682,,Residual,1,1,1,
+,,Random effects,,,,,,Random effects,,,,,,Random effects,,,,,,,,,,
+,,Phylogeny,59.0,8.2,156.4,,,Phylogeny,121.6,13.0,304.9,,,Phylogeny,452.8,1.2,1449.0,,,,,,,
+,,Residuals,,,,,,Residuals,,,,,,Residuals,,,,,,,,,,
+,,Residual,1,1,1,,,Residual,1,1,1,,,Residual,1,1,1,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+"With litter size omitted from the model, and with social group size (SGS) as a continuous variable.",,All,n = 1081,,,,,Myomorpha,n = 568,,,,,Hystricomorpha,n = 182,,,,,,,,,
+,,Fixed effects,?,lower 95% CI,upper 95% CI,pMCMC,,Fixed effects,?,lower 95% CI,upper 95% CI,pMCMC,,Fixed effects,?,lower 95% CI,upper 95% CI,pMCMC,,,,,,
+,,Arboreality,-0.989,-3.603,1.371,0.398,,Arboreality,-1.726,-5.580,2.554,0.370,,Arboreality,-0.324,-6.834,6.299,0.952,,,,,,
+,,Aquaticity,-4.708,-10.325,0.051,0.042,,Aquaticity,-4.327,-10.170,1.380,0.122,,Aquaticity,-0.007,-7.221,8.140,0.998,,,,,,
+,,Shade,-0.730,-1.557,0.108,0.084,,Shade,-0.825,-2.383,0.473,0.238,,Shade,-0.779,-2.848,1.283,0.412,,,,,,
+,,SGS,-0.079,-0.651,0.599,0.764,,SGS,-0.020,-1.103,1.069,0.956,,SGS,0.694,-2.839,1.072,0.400,,,,,,
+,,Nocturnality,-0.471,-2.399,1.492,0.596,,Nocturnality,0.227,-3.114,3.783,0.902,,Nocturnality,-1.231,-6.384,3.946,0.578,,,,,,
+,,Random effects,,,,,,Random effects,,,,,,Random effects,,,,,,,,,,
+,,Phylogeny,48.9,7.7,148.7,,,Phylogeny,104.1,2.5,288.0,,,Phylogeny,307.0,2.0,1386.0,,,,,,,
+,,Residuals,,,,,,Residuals,,,,,,Residuals,,,,,,,,,,
+,,Residual,1,1,1,,,Residual,1,1,1,,,Residual,1,1,1,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+With both litter size and social group size omitted from the model.,,All,n = 1924,,,,,Myomorpha,n = 1315,,,,,Hystricomorpha,n = 211,,,,,Castorimorpha,n = 95,,,
+,,Fixed effects,?,lower 95% CI,upper 95% CI,pMCMC,,Fixed effects,?,lower 95% CI,upper 95% CI,pMCMC,,Fixed effects,?,lower 95% CI,upper 95% CI,pMCMC,,Fixed effects,?,lower 95% CI,upper 95% CI,pMCMC
+,,Arboreality,-0.797,-2.224,0.422,0.238,,Arboreality,-1.063,-2.549,0.717,0.166,,Arboreality,-0.236,-7.333,6.475,0.936,,Aquaticity,-0.998,-9.301,6.971,0.850
+,,Aquaticity,-5.370,-10.460,-0.958,0.004,,Aquaticity,-5.302,-9.743,-0.343,0.010,,Aquaticity,-0.385,-8.420,7.708,0.980,,Shade,0.111,-3.035,3.535,0.938
+,,Shade,-0.951,-1.463,-0.362,< 0.001,,Shade,-1.105,-1.854,-0.417,< 0.001,,Shade,-0.713,-3.028,1.485,0.444,,Nocturnality,0.978,-6.993,8.213,0.768
+,,Nocturnality,0.213,-1.353,1.858,0.800,,Nocturnality,1.219,-0.861,3.682,0.298,,Nocturnality,-1.409,-6.214,3.882,0.502,,Random effects,,,,
+,,Random effects,,,,,,Random effects,,,,,,Random effects,,,,,,Phylogeny,917.7,2.8,3312.0,
+,,Phylogeny,27.0,7.8,52.5,,,Phylogeny,34.8,7.3,80.2,,,Phylogeny,283.4,1.5,1073.0,,,Residuals,,,,
+,,Residuals,,,,,,Residuals,,,,,,Residuals,,,,,,Residual,1,1,1,
+,,Residual,1,1,1,,,Residual,1,1,1,,,Residual,1,1,1,,,,,,,

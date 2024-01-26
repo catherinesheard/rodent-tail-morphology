@@ -1,0 +1,24 @@
+"Table S10: Macroevolutionary correlates of interspecific variation in fluffy tail tufts. Shown are the results of a Bayesian phylogenetic logistic regression, computed in MCMCglmm. Statistically significant coefficients are highlighted in grey.  Note insufficient trait variation in the Anomaluromorpha. Note also that the Castorimorpha do not contain any arboreal species.",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+All,n = 1921,,,,,Myomorpha,n = 1317,,,,,Hystricomorpha,n = 210,,,,,Sciuromorpha,n = 293,,,,,Castorimorpha,n = 92,,,
+Fixed effects,?,lower 95% CI,upper 95% CI,pMCMC,,Fixed effects,?,lower 95% CI,upper 95% CI,pMCMC,,Fixed effects,?,lower 95% CI,upper 95% CI,pMCMC,,Fixed effects,?,lower 95% CI,upper 95% CI,pMCMC,,Fixed effects,?,lower 95% CI,upper 95% CI,pMCMC
+Terrestriality,-0.046,-1.894,1.727,0.956,,Terrestriality,-0.808,-3.008,1.133,0.446,,Terrestriality,1.312,-4.996,7.437,0.666,,Terrestriality,0.017,-4.574,5.092,0.988,,Terrestriality,1.897,-6.655,9.813,0.620
+Arboreality,3.390,1.645,5.444,< 0.001,,Arboreality,3.440,1.504,5.732,< 0.001,,Arboreality,2.891,-3.897,9.948,0.414,,Arboreality,-0.170,-6.140,4.645,0.924,,Body size,-1.107,-4.967,2.548,0.542
+Body size,-2.973,-5.519,-0.650,0.002,,Body size,-1.531,-3.092,-0.070,0.022,,Body size,-2.304,-5.431,0.675,0.134,,Body size,-0.626,-3.048,2.038,0.642,,Owl threat,-1.599,-4.734,1.751,0.324
+Owl threat,-0.383,-1.446,0.641,0.454,,Owl threat,-0.201,-1.406,1.037,0.742,,Owl threat,0.025,-3.448,2.722,0.952,,Owl threat,-0.490,-2.790,1.998,0.708,,Raptor threat,0.978,-1.947,3.920,0.500
+Raptor threat,1.011,-0.174,2.196,0.082,,Raptor threat,1.238,-0.206,2.658,0.062,,Raptor threat,0.010,-3.432,3.037,0.992,,Raptor threat,-1.659,-4.538,0.873,0.214,,Habitat opennes,0.024,-3.613,3.263,0.916
+Habitat opennes,-0.064,-0.791,0.673,0.882,,Habitat opennes,-0.060,-0.924,0.749,0.878,,Habitat opennes,-0.585,-3.348,2.028,0.654,,Habitat opennes,0.030,-2.088,2.295,0.950,,Phylogeny,800.9,8.3,2883.0,
+Random effects,,,,,,Random effects,,,,,,Random effects,,,,,,Random effects,,,,,,Residuals,,,,
+Phylogeny,154.4,59.2,295.1,,,Phylogeny,152.3,38.7,311.8,,,Phylogeny,564.8,23.4,1560.0,,,Phylogeny,113.7,0.2,421.5,,,Residual,1,1,1,
+Residuals,,,,,,Residuals,,,,,,Residuals,,,,,,Residuals,,,,,,,,,,
+Residual,1,1,1,,,Residual,1,1,1,,,Residual,1,1,1,,,Residual,1,1,1,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,

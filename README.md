@@ -6,7 +6,7 @@ Contact: Catherine Sheard, catherine.sheard@abdn.ac.uk
 
 %%%%
 
-This repository contains the data, tree file, and code necessary to run the 11 main models (and a version of the tail length model with an interaction term) presented in the manuscript, as well as two worked-through examples of how to do suborder analyses.
+This repository contains the data, tree file, and code necessary to run the 11 main models (and a version of the tail length model with an interaction term) presented in the manuscript, as well as non-proprietary versions of Tables S1-S13 and two worked-through examples of how to do suborder analyses.
 
 Within the "main models" folder, the "Autotomy.R" script contains the most annotations; users are recommended to begin there.
 
